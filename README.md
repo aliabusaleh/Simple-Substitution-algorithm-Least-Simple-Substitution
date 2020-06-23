@@ -1,20 +1,6 @@
-## An-Najah Nation University
+## An-Najah Nation University |  Faculty of Engineering and  | Information Tech. |  جامعة النجاح الوطنية | كلية الهندسة وتكنولوجيا المعلومات |  Computer Engineering Department
 
-## Faculty of Engineering and
-
-## Information Tech.
-
-## جامعة النجاح الوطنية
-
-## كلية الهندسة وتكنولوجيا المعلومات
-
-## Computer Engineering Department
-
-## Information and Network Security (10636 511 )
-
-# HW 1
-
-## ILOs [iii] ___________________ 27 / 6 / 2020 midnight ___________________ 10 points
+## Information and Network Security (10636 511 ) | HW 1 | ILOs [iii] ___________________ 27 / 6 / 2020 midnight ___________________ 10 points
 
 In the following homework assume that the input plaintext is in capital English letters (A-Z).
 _One main program for both questions_. **Make a menu list to choose from.** No need for a graphical
