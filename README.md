@@ -1,8 +1,5 @@
-## An-Najah Nation University |  Faculty of Engineering and  | Information Tech. |  جامعة النجاح الوطنية | كلية الهندسة وتكنولوجيا المعلومات |  Computer Engineering Department
 
-## Information and Network Security (10636 511 ) | HW 1 | ILOs [iii] ___________________ 27 / 6 / 2020 midnight ___________________ 10 points
-
-In the following homework assume that the input plaintext is in capital English letters (A-Z).
+In the following assume that the input plaintext is in capital English letters (A-Z).
 _One main program for both questions_. **Make a menu list to choose from.** No need for a graphical
 user interface. Use **_C++ or Java_** , but you cannot use predefined libraries for encryption or analysis.
 
@@ -23,8 +20,6 @@ Check the following link for help deciding the frequency count of The English le
 2004/cryptography/subs/frequencies.html?fbclid=IwAR2Bt3GrFZdT_o5fzMBjgZNM26mghSQt6xi
 KoL34nK4phA4TTXX0Ym9ie
 
-**_Submission requirements:_**
-Submit a compressed folder that includes code files, and sample screenshots for the results in a
-short Word file report.
+
 
 
